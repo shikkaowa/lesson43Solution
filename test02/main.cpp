@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	int length;
-
+	
 	cout << "Input size of array: ";
 	cin >> length;
 
